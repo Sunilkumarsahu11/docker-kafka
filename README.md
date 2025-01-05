@@ -14,5 +14,8 @@ docker build -t my-kafka .
 docker run -d -p 9092:9092 -p 2181:2181 my-kafka
 
 
-## tools to connect kfka locally 
+## tools to connect kafka locally 
 https://www.kafkatool.com/download.html
+
+![image](https://github.com/user-attachments/assets/958b4e39-d0f2-4f99-b935-961b93b51683)
+
